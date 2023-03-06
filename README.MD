@@ -8,6 +8,8 @@ Por conta desse problemas, a solução encontrada foi de implementar um Data War
 
 Para a implantação do DW foi selecionado o Redshift, solução de DW da nuvem AWS.
 
+!["Redshift"](/imgs/redshift.png)
+
 ## Levantamento de Requisitos
 
 Antes de modelar o Data Warehouse precisamos identificar a fonte de dados que alimentará nosso sistema e qual será a nossa tabela Fato, agente de negócio que será analisado, e as tabelas dimensões.
